@@ -1,0 +1,44 @@
+18:40:50.619 [main] INFO  testCases.TC002_LoginTest - *******Finished TC_002_LoginTest*********
+18:47:56.714 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\pavi1\Desktop\Maven project\OpencartV05\grid-docker.xml"
+18:47:57.043 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\pavi1\Desktop\Maven project\OpencartV05\grid-docker.xml
+
+18:48:00.369 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************Strating TC001_AccountRegistrationTest***************
+18:48:01.220 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Providing customer details***************
+18:48:03.683 [main] INFO  testCases.TC001_AccountRegistrationTest - ***********Validating expected Message****************
+18:48:03.757 [main] INFO  testCases.TC001_AccountRegistrationTest - *********************Finished TC001_AccountRegistrationTest*********************
+18:48:05.527 [main] INFO  testCases.TC002_LoginTest - ********Starting TC_002_LoginTest***********
+18:48:07.565 [main] INFO  testCases.TC002_LoginTest - *******Finished TC_002_LoginTest*********
+18:48:14.902 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************Strating TC001_AccountRegistrationTest***************
+18:48:15.834 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Providing customer details***************
+18:48:17.481 [main] INFO  testCases.TC001_AccountRegistrationTest - ***********Validating expected Message****************
+18:48:17.533 [main] INFO  testCases.TC001_AccountRegistrationTest - *********************Finished TC001_AccountRegistrationTest*********************
+18:48:23.109 [main] INFO  testCases.TC002_LoginTest - ********Starting TC_002_LoginTest***********
+18:48:25.054 [main] INFO  testCases.TC002_LoginTest - *******Finished TC_002_LoginTest*********
+20:43:22.488 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\pavi1\Desktop\Maven project\OpencartV05\master.xml"
+20:44:40.226 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\pavi1\Desktop\Maven project\OpencartV05\master.xml"
+20:44:52.650 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************Strating TC001_AccountRegistrationTest***************
+20:44:53.281 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Providing customer details***************
+20:44:54.413 [main] INFO  testCases.TC001_AccountRegistrationTest - ***********Validating expected Message****************
+20:45:04.435 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed
+20:45:04.435 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs
+20:45:07.536 [main] INFO  testCases.TC002_LoginTest - ********Starting TC_002_LoginTest***********
+20:45:09.332 [main] INFO  testCases.TC002_LoginTest - *******Finished TC_002_LoginTest*********
+20:49:46.165 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\pavi1\Desktop\Maven project\OpencartV05\master.xml"
+20:49:51.622 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************Strating TC001_AccountRegistrationTest***************
+20:49:52.894 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Providing customer details***************
+20:49:55.854 [main] INFO  testCases.TC001_AccountRegistrationTest - ***********Validating expected Message****************
+20:49:55.902 [main] INFO  testCases.TC001_AccountRegistrationTest - *********************Finished TC001_AccountRegistrationTest*********************
+20:49:59.229 [main] INFO  testCases.TC002_LoginTest - ********Starting TC_002_LoginTest***********
+20:50:01.966 [main] INFO  testCases.TC002_LoginTest - *******Finished TC_002_LoginTest*********
+20:59:32.854 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\pavi1\Desktop\Maven project\OpencartV05\master.xml"
+20:59:42.625 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************Strating TC001_AccountRegistrationTest***************
+20:59:43.284 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Providing customer details***************
+20:59:45.529 [main] INFO  testCases.TC001_AccountRegistrationTest - ***********Validating expected Message****************
+20:59:45.576 [main] INFO  testCases.TC001_AccountRegistrationTest - *********************Finished TC001_AccountRegistrationTest*********************
+20:59:47.681 [main] INFO  testCases.TC002_LoginTest - ********Starting TC_002_LoginTest***********
+20:59:49.952 [main] INFO  testCases.TC002_LoginTest - *******Finished TC_002_LoginTest*********
+21:04:29.215 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\pavi1\Desktop\Maven project\OpencartV05\master.xml"
+21:04:31.950 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************Strating TC001_AccountRegistrationTest***************
+21:04:32.425 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Providing customer details***************
+21:04:35.033 [main] INFO  testCases.TC001_AccountRegistrationTest - ***********Validating expected Message****************

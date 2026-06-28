@@ -1,0 +1,37 @@
+18:28:59.305 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************Strating TC001_AccountRegistrationTest***************
+18:29:00.185 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Providing customer details***************
+18:29:02.916 [main] INFO  testCases.TC001_AccountRegistrationTest - ***********Validating expected Message****************
+18:29:02.998 [main] INFO  testCases.TC001_AccountRegistrationTest - *********************Finished TC001_AccountRegistrationTest*********************
+18:31:12.105 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************Strating TC001_AccountRegistrationTest***************
+18:31:13.037 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Providing customer details***************
+18:31:16.098 [main] INFO  testCases.TC001_AccountRegistrationTest - ***********Validating expected Message****************
+18:31:16.157 [main] INFO  testCases.TC001_AccountRegistrationTest - *********************Finished TC001_AccountRegistrationTest*********************
+18:57:36.921 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************Strating TC001_AccountRegistrationTest***************
+18:57:37.847 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Providing customer details***************
+18:57:39.762 [main] INFO  testCases.TC001_AccountRegistrationTest - ***********Validating expected Message****************
+18:57:39.841 [main] INFO  testCases.TC001_AccountRegistrationTest - *********************Finished TC001_AccountRegistrationTest*********************
+18:59:55.765 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************Strating TC001_AccountRegistrationTest***************
+18:59:57.376 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Providing customer details***************
+18:59:59.762 [main] INFO  testCases.TC001_AccountRegistrationTest - ***********Validating expected Message****************
+18:59:59.834 [main] INFO  testCases.TC001_AccountRegistrationTest - *********************Finished TC001_AccountRegistrationTest*********************
+19:09:17.921 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************Strating TC001_AccountRegistrationTest***************
+19:09:18.854 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Providing customer details***************
+19:09:21.217 [main] INFO  testCases.TC001_AccountRegistrationTest - ***********Validating expected Message****************
+19:09:21.305 [main] INFO  testCases.TC001_AccountRegistrationTest - *********************Finished TC001_AccountRegistrationTest*********************
+19:10:02.743 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************Strating TC001_AccountRegistrationTest***************
+19:10:03.787 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Providing customer details***************
+19:10:07.794 [main] INFO  testCases.TC001_AccountRegistrationTest - ***********Validating expected Message****************
+19:10:07.834 [main] INFO  testCases.TC001_AccountRegistrationTest - *********************Finished TC001_AccountRegistrationTest*********************
+19:10:13.886 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************Strating TC001_AccountRegistrationTest***************
+19:10:16.170 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Providing customer details***************
+19:10:21.040 [main] INFO  testCases.TC001_AccountRegistrationTest - ***********Validating expected Message****************
+19:10:21.058 [main] INFO  testCases.TC001_AccountRegistrationTest - *********************Finished TC001_AccountRegistrationTest*********************
+19:11:51.970 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******************Strating TC001_AccountRegistrationTest***************
+19:11:52.286 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******************Strating TC001_AccountRegistrationTest***************
+19:11:52.958 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***************Providing customer details***************
+19:11:53.246 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***************Providing customer details***************
+19:11:55.622 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***********Validating expected Message****************
+19:11:55.771 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***********Validating expected Message****************
+19:11:55.933 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *********************Finished TC001_AccountRegistrationTest*********************
+19:11:55.933 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *********************Finished TC001_AccountRegistrationTest*********************
+19:11:56.524 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ******************Strating TC001_AccountRegistrationTest***************
